@@ -4,7 +4,7 @@
 " URL: https://github/com/jacoborus/tender.vim
 " Author: Jacobo Tabernero http://jacoborus.codes
 " License: MIT
-" Last Change: 2018/07/20 17:21
+" Last Change: 2018/07/27 16:19
 " ===============================================================
 
 set background=dark
@@ -37,7 +37,7 @@ hi PMenuSel guifg=#282828 ctermfg=235 guibg=#c9d05c ctermbg=185 gui=NONE cterm=N
 hi PmenuSbar guifg=#d3b987 ctermfg=180 guibg=#d3b987 ctermbg=180 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#ffc24b ctermfg=215 guibg=#ffc24b ctermbg=215 gui=NONE cterm=NONE
 hi Question guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
+hi Search guifg=#282828 ctermfg=235 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 hi SpecialKey guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
